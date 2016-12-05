@@ -1,0 +1,52 @@
+body{
+	background-color: #FFDEAD
+}
+#title{
+	background-color: yellow;
+	text-align: center;
+	margin: 0px 0px 100px 0px;
+}
+
+#maincointainer{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Qmark{
+	font-weight: bold;
+
+}
+#qo{
+	background-color: black;
+	padding: 4px 0px 4px 0px;
+}
+#question{
+	background-color: white;
+	width: 792px;
+	margin-left: auto;
+	margin-right: auto;	
+	padding: 0px 0px 100px 0px;
+}
+
+#Amark{
+	clear: both;
+	font-weight: bold;
+	margin: 10px 0px 0px 0px;
+}
+#ao{
+	background-color: black;
+	padding: 4px 0px 4px 0px;
+}
+#answer{
+	background-color: white;
+	clear: both;
+	width: 792px;
+	margin-left: auto;
+	margin-right: auto;		
+	padding: 0px 0px 100px 0px;
+}
+#copyright{
+	clear: both;
+	text-align: right;
+}
