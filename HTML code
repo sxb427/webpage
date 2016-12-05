@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang=“en-US”>
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel=stylesheet type=text/css href=layout.css />
+		<title>My Website</title>
+	</head>
+	<body>
+		<div id=title>
+			<h1>My Website</h1>
+		</div>
+		<div id=maincointainer>
+			<div id=Qmark>
+				Question
+			</div>
+			<div id=qo>
+			<div id=question>
+				Question is here
+			</div>
+			</div>
+			<div id=Amark>
+				Answer
+			</div>
+			<div id=ao>
+			<div id=answer>
+				Answer is here
+			</div>
+			</div>
+		</div>
+	<div id=copyright>
+				&copy; MyWebsite.com
+	</div>
+	</body>
+
+
+
+</html>
